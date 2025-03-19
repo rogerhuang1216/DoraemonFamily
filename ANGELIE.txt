@@ -11,4 +11,9 @@ add angelie 20250404 新視訊修眼鏡
 
 feature 3: 胖胖的
 
+feature 4: 作文寫的很好
+
+feature 5: 最近變得很愛化妝, 連上課也化妝.
+
+
 
