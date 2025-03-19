@@ -5,3 +5,7 @@ add angelie 20250318 16:59 update
 
 feature 1: 152
 feature 2: 眼睛大
+
+// test, 手邊的工作做到一半，臨 時要切換到別的任務. 該怎麼辦 ?
+
+
