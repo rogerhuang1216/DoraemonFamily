@@ -7,4 +7,14 @@ add angelie 20250318 16:59 update
 
 feature 1: 152
 feature 2: 眼睛大
+<<<<<<< HEAD
+>>>>>>> develop
+=======
+
+add angelie 20250404 新視訊修眼鏡
+
+
+feature 3: 胖胖的
+
+
 >>>>>>> develop
