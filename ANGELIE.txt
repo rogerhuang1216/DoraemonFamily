@@ -13,4 +13,6 @@ feature 2: 眼睛大
 
 feature 3: 胖胖的
 
+feature 4: 作文寫的很好
+
 
